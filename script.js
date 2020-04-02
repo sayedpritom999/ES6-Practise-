@@ -1,7 +1,4 @@
-
-let sum = 0;
-for (let i = 0; i < 10; i++) {
-    sum++;
+const age = " ";s
+if (age) {
+    console.log((4*(-1)));
 }
-
-console.log(sum);
