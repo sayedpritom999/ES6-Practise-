@@ -6,3 +6,7 @@ if (first == second) {
 } else {
     console.log("condition is false.")
 }
+
+git add . 
+git commit -m"commit"
+git push
